@@ -1,0 +1,3 @@
+dev.springaxios.autoconfigure.AxiosAutoConfiguration
+dev.springaxios.autoconfigure.AxiosMetricsConfiguration
+dev.springaxios.autoconfigure.AxiosCircuitBreakerConfiguration
